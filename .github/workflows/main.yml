@@ -2,7 +2,7 @@ name: Run RestAssured Test cases
 
 on:
   push:
-    branches: ["master"]
+    branches: ["main"]
 
 jobs:
   test:
